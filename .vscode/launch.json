@@ -1,0 +1,349 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch J07021",
+            "request": "launch",
+            "mainClass": "J07021",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J07005",
+            "request": "launch",
+            "mainClass": "J07005",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J07015",
+            "request": "launch",
+            "mainClass": "J07015",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch HCN",
+            "request": "launch",
+            "mainClass": "HCN",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01004",
+            "request": "launch",
+            "mainClass": "J01004",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01007",
+            "request": "launch",
+            "mainClass": "J01007",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01008",
+            "request": "launch",
+            "mainClass": "J01008",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01009",
+            "request": "launch",
+            "mainClass": "J01009",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01010",
+            "request": "launch",
+            "mainClass": "J01010",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01011",
+            "request": "launch",
+            "mainClass": "J01011",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01012",
+            "request": "launch",
+            "mainClass": "J01012",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01013",
+            "request": "launch",
+            "mainClass": "J01013",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01014",
+            "request": "launch",
+            "mainClass": "J01014",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01016",
+            "request": "launch",
+            "mainClass": "J01016",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01017",
+            "request": "launch",
+            "mainClass": "J01017",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01018",
+            "request": "launch",
+            "mainClass": "J01018",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01021",
+            "request": "launch",
+            "mainClass": "J01021",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01024",
+            "request": "launch",
+            "mainClass": "J01024",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01026",
+            "request": "launch",
+            "mainClass": "J01026",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02005",
+            "request": "launch",
+            "mainClass": "J02005",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02006",
+            "request": "launch",
+            "mainClass": "J02006",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02007",
+            "request": "launch",
+            "mainClass": "J02007",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02008",
+            "request": "launch",
+            "mainClass": "J02008",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02011",
+            "request": "launch",
+            "mainClass": "J02011",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02012",
+            "request": "launch",
+            "mainClass": "J02012",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02013",
+            "request": "launch",
+            "mainClass": "J02013",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02014",
+            "request": "launch",
+            "mainClass": "J02014",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02017",
+            "request": "launch",
+            "mainClass": "J02017",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02020",
+            "request": "launch",
+            "mainClass": "J02020",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02034",
+            "request": "launch",
+            "mainClass": "J02034",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02101",
+            "request": "launch",
+            "mainClass": "J02101",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02104",
+            "request": "launch",
+            "mainClass": "J02104",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02105",
+            "request": "launch",
+            "mainClass": "J02105",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02106",
+            "request": "launch",
+            "mainClass": "J02106",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03004",
+            "request": "launch",
+            "mainClass": "J03004",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03005",
+            "request": "launch",
+            "mainClass": "J03005",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03006",
+            "request": "launch",
+            "mainClass": "J03006",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03007",
+            "request": "launch",
+            "mainClass": "J03007",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03008",
+            "request": "launch",
+            "mainClass": "J03008",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03011",
+            "request": "launch",
+            "mainClass": "J03011",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03024",
+            "request": "launch",
+            "mainClass": "J03024",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch PTBN",
+            "request": "launch",
+            "mainClass": "PTBN",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "OOP_77516d57"
+        }
+    ]
+}
